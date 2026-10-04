@@ -1,0 +1,23 @@
+manifestVersion: 1
+id: vino-flexwatch
+category: utilities
+name: FlexWatch
+version: "1.0.0"
+tagline: Atalho para o painel do FlexWatch
+description: >-
+  Atalho para o painel do FlexWatch (ladder da Flex BR), que roda neste Umbrel na porta 8771.
+  Este app não guarda dados: só abre o painel.
+icon: https://raw.githubusercontent.com/TheVino/vino-umbrel-apps/main/vino-flexwatch/icon.svg
+developer: Vino
+website: https://github.com/TheVino/vino-umbrel-apps
+submitter: Vino
+submission: https://github.com/TheVino/vino-umbrel-apps
+repo: https://github.com/TheVino/vino-umbrel-apps
+support: https://github.com/TheVino/vino-umbrel-apps
+port: 8772
+gallery: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+dependencies: []
+releaseNotes: ""
